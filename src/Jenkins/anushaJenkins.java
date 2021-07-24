@@ -4,9 +4,10 @@ public class anushaJenkins {
 
     public static void main(String[] args) {
 
-        for(int i=0; i<6; i++){
+        for(int i=0; i<10; i++){
 
             System.out.println("Slow slow jenkins");
+            System.out.println("print this now");
         }
 
     }
