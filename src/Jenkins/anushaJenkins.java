@@ -6,8 +6,9 @@ public class anushaJenkins {
 
         for(int i=0; i<10; i++){
 
-            System.out.println("Slow slow jenkins");
-            System.out.println("print this now");
+            System.out.println("this will automatically start the build");
+
+
         }
 
     }
